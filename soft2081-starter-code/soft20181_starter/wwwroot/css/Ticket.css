@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.ticket {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+    .ticket h2 {
+        color: #007bff;
+        margin-bottom: 20px;
+    }
+
+    .ticket ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .ticket li {
+        margin-bottom: 10px;
+    }
+
+    .ticket strong {
+        font-weight: bold;
+    }
+
+.ticket-number {
+    font-size: 18px;
+    color: #28a745;
+}

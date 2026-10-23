@@ -1,0 +1,54 @@
+﻿@page
+@model soft20181_starter.Pages.Admin.EditBookingModel
+@{
+}
+
+
+
+<link rel="stylesheet" href="~/css/Contactus.css">
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+
+<h1>Edit Booking</h1>
+
+
+@Model.Id
+
+
+<div class="contactForm">
+    <form method="post">
+        <h2>User details</h2>
+        <div class="inputBox">
+            <label for="Id">User ID</label>
+            <input type="text" asp-for="@Model.TheAttendaceList.Id" readonly>
+        </div>
+        <div class="inputBox">
+            <label for="firstName">FirstName</label>
+            <input type="text" asp-for="@Model.TheAttendaceList.FirstName" id="firstName">
+        </div>
+        <div class="inputBox">
+            <label for="lastName">Last Name</label>
+            <input type="text" asp-for="@Model.TheAttendaceList.LastName" id="lastName">
+        </div>
+        <div class="inputBox">
+            <label for="Email">Email</label>
+            <input type="text" asp-for="@Model.TheAttendaceList.Email" id="Email">
+        </div>
+        <div class="inputBox">
+            <label for="EventTicket">Event Ticket</label>
+            <select asp-for="@Model.TheAttendaceList.EventTicket" id="EventTicket">
+                @foreach (var eventName in Model.EventNames)
+                {
+                    <option value="@eventName">@eventName</option>
+                }
+            </select>
+        </div>
+       
+
+
+        <div class="inputBox">
+            <button type="submit">Update</button>
+        </div>
+    </form>
+

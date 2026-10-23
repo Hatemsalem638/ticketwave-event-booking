@@ -1,0 +1,148 @@
+﻿@page
+@model soft20181_starter.Pages.SignUpModel
+@{
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PV1GOFQNHSoD2xbE+QkP×CAFINEevoEH3S10sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/Contactus.css">
+</head>
+<body>
+
+
+
+    <nav>
+        <div class="logo"><a href="Index"><img src="~/css/ticketwave-high-resolution-logo-white-transparent.png" alt="Logo" width="100" height="50"></a></div>
+        <div class="hamburger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <ul class="menu">
+            <li><a href="Index" class="active">Home</a></li>
+            <li><a href="Events">Events</a></li>
+            <li><a href="About Us">About</a></li>
+            <li><a href="Contactus">Contact us</a></li>
+        </ul>
+        <div class="Search">
+            <form>
+                <input type="text" placeholder="Search........">
+                <datalist id="input">
+                    <option value="HTML">html</option>
+                    <option value="HTML">html</option>
+                    <option value="HTML">html</option>
+                    <option value="HTML">html</option>
+                    <option value="HTML">java</option>
+                    <option value="HTML">html</option>
+                    <option value="HTML">real</option>
+
+                </datalist>
+
+                <button type="submit">Go</button>
+
+            </form>
+        </div>
+    </nav>
+
+
+
+
+
+    <section class="contact">
+        <div class="content">
+            <h2>SIGN UP</h2>
+        </div>
+
+
+        </div>
+        <div class="container">
+            <div class="contactInformation">
+                <div class="box">
+                    <div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+                    <div class="text">
+                        <h3>Address</h3>
+                        <p>123 Elm Street,<br>London,<br>United Kingdom</p>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="icon"><i class="fa fa-phone-square" aria-hidden="true"></i></div>
+                    <div class="text">
+                        <h3>Phone</h3>
+                        <p>07496972355</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
+                    <div class="text">
+                        <h3>Email</h3>
+                        <p>Ticket_Wave2023@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+            <div class="contactForm">
+                <form method="post">
+                    <h2>Sign Up details</h2>
+                    <div class="inputBox">
+                        <label for="firstName">First Name</label>
+                        <input type="text" asp-for="@Model.TheSignUpDetails.FirstName" id="firstName">
+                    </div>
+                    <div class="inputBox">
+                        <label for="lastName">Last Name</label>
+                        <input type="text" asp-for="@Model.TheSignUpDetails.LastName" id="lastName">
+                    </div>
+                    <div class="inputBox">
+                        <label for="phoneNumber">Phone Number</label>
+                        <input type="text" asp-for="@Model.TheSignUpDetails.PhoneNumber" id="phoneNumber">
+                    </div>
+                    <div class="inputBox">
+                        <label for="Gender">Gender</label>
+                        <input type="text" asp-for="@Model.TheSignUpDetails.Gender" id="Gender">
+                    </div>
+                    <div class="inputBox">
+                        <label for="email">Email</label>
+                        <input type="text" asp-for="@Model.TheSignUpDetails.Email" id="email">
+                    </div>
+                    <div class="inputBox">
+                        <label for="password">Password</label>
+                        <input type="password" asp-for="@Model.TheSignUpDetails.Password" id="password">
+                    </div>
+                    <h4>Date of Birth</h4>
+                    <div class="inputBox">
+                        <input type="date" asp-for="@Model.TheSignUpDetails.DateOfBirth" id="dateOfBirth">
+                    </div>
+
+
+
+                    
+                        <button type="submit">save</button>
+                    
+                </form>
+
+            </div>
+
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ticket Wave. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

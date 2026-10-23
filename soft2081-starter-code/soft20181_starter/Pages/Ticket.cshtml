@@ -1,0 +1,53 @@
+﻿@page
+@model TicketModel
+@{
+}
+
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/ticket.css"> 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Tickets</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mb-4">Ticket</h1>
+
+        @if (Model.CartItems.Any())
+        {
+            @foreach (var item in Model.CartItems)
+            {
+                var eventName = Model.Events.FirstOrDefault(e => e.EventName == item.EventTicket)?.EventName;
+                var eventDate = Model.Events.FirstOrDefault(e => e.EventName == item.EventTicket)?.Day;
+                var ticketNumber = Model.GenerateTicketNumber(8);
+
+                <div class="ticket">
+                    <h2>Your Ticket Information</h2>
+                    <ul>
+                        <li>
+                            <strong>Full Name:</strong> @item.FirstName @item.LastName
+                        </li>
+                        <li>
+                            <strong>Event:</strong> @eventName
+                        </li>
+                        <li>
+                            <strong>Event Date:</strong> @eventDate
+                        </li>
+                        <li>
+                            <strong>Ticket Number:</strong> <span class="ticket-number">@ticketNumber</span>
+                        </li>
+                    </ul>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No tickets found.</p>
+        }
+    </div>
+</body>
+</html>

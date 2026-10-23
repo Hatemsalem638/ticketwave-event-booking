@@ -1,0 +1,59 @@
+﻿@page "{id}"
+@model soft20181_starter.Pages.Admin.EditUsersModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/Contactus.css">
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+
+<h1>Edit Page</h1>
+
+@Model.Id
+
+
+<div class="contactForm">
+    <form method="post">
+        <h2>User details</h2>
+        <div class="inputBox">
+            <label for="Id">User ID</label>
+            <input type="text" asp-for="@Model.TheSignUpDetails.Id" readonly>
+        </div>
+        <div class="inputBox">
+            <label for="firstName">Event Name</label>
+            <input type="text" asp-for="@Model.TheSignUpDetails.FirstName" id="firstName">
+        </div>
+        <div class="inputBox">
+            <label for="lastName">Last Name</label>
+            <input type="text" asp-for="@Model.TheSignUpDetails.LastName" id="lastName">
+        </div>
+        <div class="inputBox">
+            <label for="phoneNumber">Phone Number</label>
+            <input type="text" asp-for="@Model.TheSignUpDetails.PhoneNumber" id="phoneNumber">
+        </div>
+        <div class="inputBox">
+            <label for="Gender">Gender</label>
+            <input type="text" asp-for="@Model.TheSignUpDetails.Gender" id="Gender">
+        </div>
+        <div class="inputBox">
+            <label for="email">Email</label>
+            <input type="text" asp-for="@Model.TheSignUpDetails.Email" id="email">
+        </div>
+        <div class="inputBox">
+            <label for="password">Password</label>
+            <input type="password" asp-for="@Model.TheSignUpDetails.Password" id="password">
+        </div>
+        <h4>Date of Birth</h4>
+        <div class="inputBox">
+            <input type="date" asp-for="@Model.TheSignUpDetails.DateOfBirth" id="dateOfBirth">
+        </div>
+
+
+
+        <div class="inputBox">
+            <button type="submit">Update</button>
+        </div>
+    </form>
+
+</div>

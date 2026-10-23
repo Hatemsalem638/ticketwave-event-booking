@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = soft20181_starter
+build_property.RootNamespace = soft20181_starter
+build_property.ProjectDir = C:\Users\Hatem\Downloads\soft2081-starter-code-main\soft2081-starter-code-main\soft20181_starter\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hatem\Downloads\soft2081-starter-code-main\soft2081-starter-code-main\soft20181_starter
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/About Us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQgVXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/AddEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkRXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/AdminPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/BookingInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va2luZ0luZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/ContactUsInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29udGFjdFVzSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/EditEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEV2ZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/EditUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/UsersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Admin/ViewEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVmlld0V2ZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Barcelona vs Atletico Madrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFyY2Vsb25hIHZzIEF0bGV0aWNvIE1hZHJpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Cavaliers vs Knicks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F2YWxpZXJzIHZzIEtuaWNrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Central Cee Concert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VudHJhbCBDZWUgQ29uY2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/CheckoutPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Dave concert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF2ZSBjb25jZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Events.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/EventsBookingSystem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzQm9va2luZ1N5c3RlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Isle of Wight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXNsZSBvZiBXaWdodC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Lakers vs magic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFrZXJzIHZzIG1hZ2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Liverpool vs Manchester United.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGl2ZXJwb29sIHZzIE1hbmNoZXN0ZXIgVW5pdGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/PSG vs AC Milan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUFNHIHZzIEFDIE1pbGFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/Real Madrid vs Napoli.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVhbCBNYWRyaWQgdnMgTmFwb2xpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/The weeknd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhlIHdlZWtuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hatem/Downloads/soft2081-starter-code-main/soft2081-starter-code-main/soft20181_starter/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

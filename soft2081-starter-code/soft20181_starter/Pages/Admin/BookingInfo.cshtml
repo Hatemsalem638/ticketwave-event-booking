@@ -1,0 +1,29 @@
+﻿@page
+@model soft20181_starter.Pages.Admin.BookingInfoModel
+@{
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+<h1>Booking Info</h1>
+<div class="container">
+    <ul class="list-group">
+        @foreach (var AttendaceList in Model.TheListofAttendance)
+        {
+            <li class="list-group-item">
+                <div class="d-flex justify-content-between align-items-center">
+                    <span>@AttendaceList.FirstName - @AttendaceList.LastName</span>
+                    <div>
+                        <a class="btn btn-primary" asp-page="EditBooking" asp-route-id="@AttendaceList.Id">Edit</a>
+                        <a class="btn btn-danger" asp-page="EditBooking" asp-route-id="@AttendaceList.Id" asp-page-handler="Delete">Delete</a>
+                    </div>
+                </div>
+                <div class="mt-2">
+                    <p><strong>Email:</strong> @AttendaceList.Email</p>
+                    <p><strong>EventTicket:</strong> @AttendaceList.EventTicket</p>
+                </div>
+            </li>
+        }
+    </ul>
+</div>

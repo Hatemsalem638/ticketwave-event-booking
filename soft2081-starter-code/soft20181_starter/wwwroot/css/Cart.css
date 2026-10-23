@@ -1,0 +1,174 @@
+body {
+    background: url(contactus\ wp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+nav {
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.menu {
+    width: 65%;
+    display: flex;
+    justify-content: right;
+    list-style: none;
+}
+
+    .menu li {
+        margin-left: 20px;
+    }
+
+        .menu li a {
+            font-size: 19px;
+            color: aqua;
+            text-decoration: none;
+            transition: 0.3s ease;
+        }
+
+            .menu li a:hover {
+                color: red;
+            }
+
+.Search {
+    display: flex;
+    align-items: center;
+    margin-right: 0;
+}
+
+    .Search form {
+        display: flex;
+        margin: 0;
+    }
+
+    .Search input {
+        padding: 10px;
+        border: 1px solid white;
+        outline: none;
+        border-radius: 5px;
+        margin-right: 10px;
+        font-size: 16px;
+    }
+
+        .Search input:hover {
+            border: 1px solid skyblue;
+        }
+
+    .Search button {
+        padding: 10px;
+        background-color: white;
+        border: 1px solid white;
+        border-radius: 5px;
+        color: black;
+        font-size: 19px;
+        cursor: pointer;
+    }
+
+        .Search button:hover {
+            background-color: grey;
+        }
+
+.hamburger {
+    display: none;
+}
+
+    .hamburger .line {
+        width: 30px;
+        height: 3px;
+        background: #fefefe;
+        margin: 6px 0;
+    }
+
+:root {
+    --primary-color: black;
+    --sencondory-color: white;
+}
+
+
+.light-mode {
+    --primary-color: white;
+    --sencondory-color: black;
+}
+
+#icon {
+    width: 30px;
+    cursor: pointer;
+}
+
+.attendance-list {
+    text-align: center;
+    color: white;
+    
+}
+
+.container {
+    color:white;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.table-custom {
+    color: white;
+    font-size: 16px;
+}
+    .table-custom th {
+        color: white; 
+    }
+
+    .table-custom td {
+        color: white; 
+    }
+
+.btn-custom {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-custom-generate {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+    margin-top: 10px;
+    display: block; /* Ensure each button is on a new line */
+}
+.btn-checkout {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+    margin-top: 10px; /* Add margin between buttons */
+    display: block; /* Ensure each button is on a new line */
+}

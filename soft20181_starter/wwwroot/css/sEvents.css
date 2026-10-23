@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+   
+
+}
+
+nav {
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.menu {
+    width: 65%;
+    display: flex;
+    justify-content: right;
+    list-style: none;
+}
+
+.menu li {
+    margin-left: 20px;
+}
+
+.menu li a {
+    font-size: 19px;
+    color: aqua;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.menu li a:hover {
+    color: red;
+}
+
+.Search {
+    display: flex;
+    align-items: center;
+    margin-right: 0;
+    
+}
+
+.Search form {
+    display: flex;
+    margin: 0;
+}
+
+.Search input {
+    padding: 10px;
+    border: 1px solid white;
+    outline: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.Search input:hover {
+    border: 1px solid skyblue;
+}
+
+.Search button {
+    padding: 10px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: black;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.Search button:hover {
+    background-color: grey;
+}
+
+.hamburger {
+    display: none;
+}
+
+.hamburger .line {
+    width: 30px;
+    height: 3px;
+    background: #fefefe;
+    margin: 6px 0;
+}
+
+:root{
+    --primary-color:black;
+    --sencondory-color:white;
+  }
+
+
+.light-mode{
+    --primary-color:white;
+    --sencondory-color:black;
+}
+  
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+
+
+.main-content {
+    display: flex;
+    padding: 20px;
+    margin-top: 75px; 
+}
+
+.image-container {
+    flex: 1;
+    margin-right: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text-content {
+    flex: 2;
+}
+
+.main-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.sheading {
+    margin-top: 40px;
+
+
+}
+
+.oEvents{
+    display: flex;
+    font-weight: 300;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow-x: hidden;
+
+
+}
+
+
+.box{
+    border: 2px solid var(--primary-color);
+    color:  var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: rgba (0,0,0,0.2) 0px 60px 40px -7px;
+    transform: translate(400%);
+    transform: transform 0.4s ease;
+    overflow: hidden;
+
+
+}
+
+.box:nth-of-type(even){
+    transform: translateX(-400%);
+} 
+
+.box.show{
+    transform: translate(0);
+
+}
+
+.box img{
+    
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+
+
+
+
+footer {
+    text-align: center;
+  }
+
+  body{
+    background-color: var(--primary-color);
+  }
+
+
+h2{
+    color: var(--sencondory-color);
+}
+  h3{
+    color: aqua;
+  }
+
+
+  p{
+    color: var(--sencondory-color);
+  }
+
+  label{
+    color: var(--sencondory-color);
+  }
+
+  .text-content {
+    flex: 2;
+    max-width: 600px; 
+}
+
+.ticket-buttons {
+    margin-top: 10px; 
+}
+
+.ticket-buttons button {
+    display: block;
+    width: 100%;
+    margin-top: 5px; 
+}
+.image-container {
+    flex: 1;
+    margin-right: 20px;
+    max-width: 400px; 
+}
+
+img.stadium-image {
+    max-width: 100%;
+    height: auto;
+}
+button{
+    background: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.ticket-buttons a {
+        text-decoration: none;
+    }
+.ticket-buttons button {
+        background: #007bff;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-transform: uppercase;
+        text-align: center;
+        display: inline-block;
+        margin-top: 10px;
+        font-weight: bold;
+        transition: background-color 0.3s ease; 
+}
+.ticket-buttons button:hover {
+    background-color: #0056b3; 
+}
+.box:hover {
+    background-color: #007bff; 
+    color: #fff; 
+    transform: scale(1.05); 
+}
+    

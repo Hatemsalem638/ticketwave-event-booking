@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\soft20181_starter.bundle.scp.css",
+      "PackagePath": "staticwebassets\\soft20181_starter.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\180528121341-01-barcelona-beach-guide.jpg",
+      "PackagePath": "staticwebassets\\css\\180528121341-01-barcelona-beach-guide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\231004120007-03-real-madrid-napoli-champions-league.jpg",
+      "PackagePath": "staticwebassets\\css\\231004120007-03-real-madrid-napoli-champions-league.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\About us.css",
+      "PackagePath": "staticwebassets\\css\\About us.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\About wp.jpg",
+      "PackagePath": "staticwebassets\\css\\About wp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Atletico wp.jpeg",
+      "PackagePath": "staticwebassets\\css\\Atletico wp.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Barcelona vs atletico.jpg",
+      "PackagePath": "staticwebassets\\css\\Barcelona vs atletico.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Basket court.jpg",
+      "PackagePath": "staticwebassets\\css\\Basket court.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Cavaliers vs Knicks.jpg",
+      "PackagePath": "staticwebassets\\css\\Cavaliers vs Knicks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Concert 1.0.png",
+      "PackagePath": "staticwebassets\\css\\Concert 1.0.png"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Contactus.css",
+      "PackagePath": "staticwebassets\\css\\Contactus.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Dave wp.jpg",
+      "PackagePath": "staticwebassets\\css\\Dave wp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Event Booking system.css",
+      "PackagePath": "staticwebassets\\css\\Event Booking system.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Events.css",
+      "PackagePath": "staticwebassets\\css\\Events.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\EventsListing.css",
+      "PackagePath": "staticwebassets\\css\\EventsListing.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Lakers vs magic.jpg",
+      "PackagePath": "staticwebassets\\css\\Lakers vs magic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Lakers wp.jpg",
+      "PackagePath": "staticwebassets\\css\\Lakers wp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Liverpool-vs-Manchester-United-min.jpg",
+      "PackagePath": "staticwebassets\\css\\Liverpool-vs-Manchester-United-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Logo light mode.jpg",
+      "PackagePath": "staticwebassets\\css\\Logo light mode.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Madrid vs napoli.jpg",
+      "PackagePath": "staticwebassets\\css\\Madrid vs napoli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\PSG-vs-Milan.jpg",
+      "PackagePath": "staticwebassets\\css\\PSG-vs-Milan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Stadium 4.0.png",
+      "PackagePath": "staticwebassets\\css\\Stadium 4.0.png"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\Ticket.css",
+      "PackagePath": "staticwebassets\\css\\Ticket.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\cavaliers wp.jpg",
+      "PackagePath": "staticwebassets\\css\\cavaliers wp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\central cee wp.jpg",
+      "PackagePath": "staticwebassets\\css\\central cee wp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\contactus wp.jpg",
+      "PackagePath": "staticwebassets\\css\\contactus wp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\isle 2024.jpg",
+      "PackagePath": "staticwebassets\\css\\isle 2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\milan wp.png",
+      "PackagePath": "staticwebassets\\css\\milan wp.png"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\moon_5-removebg-preview.png",
+      "PackagePath": "staticwebassets\\css\\moon_5-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\sEvents.css",
+      "PackagePath": "staticwebassets\\css\\sEvents.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\skysports-liverpool-manchester-united_5237468.jpg",
+      "PackagePath": "staticwebassets\\css\\skysports-liverpool-manchester-united_5237468.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\sun 6.png",
+      "PackagePath": "staticwebassets\\css\\sun 6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\ticketwave-high-resolution-logo-white-transparent.png",
+      "PackagePath": "staticwebassets\\css\\ticketwave-high-resolution-logo-white-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\weeknd.jpg",
+      "PackagePath": "staticwebassets\\css\\weeknd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\css\\y2mate.com - Sunset Beach Motion Loop Background_1080p.mp4",
+      "PackagePath": "staticwebassets\\css\\y2mate.com - Sunset Beach Motion Loop Background_1080p.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft2081-starter-code\\soft20181_starter\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.soft20181_starter.props",
+      "PackagePath": "build\\soft20181_starter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.soft20181_starter.props",
+      "PackagePath": "buildMultiTargeting\\soft20181_starter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.soft20181_starter.props",
+      "PackagePath": "buildTransitive\\soft20181_starter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.soft20181_starter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,29 @@
+﻿@page
+@model soft20181_starter.Pages.Admin.ContactUsInfoModel
+@{
+}
+
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<h1 class="mb-4">Contact Us Messages</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="list-group">
+                @foreach (var message in Model.MessagesList)
+                {
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">@message.FullName</h5>
+                            <small>@message.Email</small>
+                        </div>
+                        <p class="mb-1">@message.PhoneNumber</p>
+                        <p class="mb-1">@message.TheMessage</p>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</div>

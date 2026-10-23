@@ -1,0 +1,93 @@
+﻿    @page
+    @model EventsModel
+    @{
+        var name = "Hatem";
+    }
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/css/EventsListing.css">
+
+    </head>
+<body style="background-color: #f8f9fa;">
+
+        <nav>
+            <div class="logo"><a href="Event Booking system.html"><img src="ticketwave-high-resolution-logo-white-transparent.png" alt="Logo" width="100" height="50"></a></div>
+            <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+            <ul class="menu">
+                <li><a href="Event Booking system.html" class="active">Home</a></li>
+                <li><a href="Events.html">Events</a></li>
+                <li><a href="About Us.html">About</a></li>
+                <li><a href="Contactus.html">Contact us</a></li>
+            </ul>
+            <div class="Search">
+                <form>
+                    <input type="text" placeholder="Search........">
+                    <button type="submit">Go</button>
+                </form>
+            </div>
+             <img src="~/css/sun 6.png" id="icon">
+        </nav>
+
+    
+    <div class="container">
+        <h1 class="heading">Available Events</h1>
+        <div class="row">
+            @foreach (var eventItem in Model.EventList)
+            {
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <!-- Display event details here -->
+                            @if (Model.EventUrlMappings.ContainsKey(eventItem.Id))
+                            {
+                                var urls = Model.EventUrlMappings[eventItem.Id];
+                                <a href="@urls.DetailPageUrl">
+                                    <img src="@urls.ImageUrl" class="event-image float-right mr-3 img-fluid" alt="Event Image">
+                                </a>
+                                <div class="event-details">
+                                    <h3>@eventItem.EventName</h3>
+                                    <p><strong>Description:</strong> @eventItem.Description</p>
+                                    <p><strong>Day:</strong> @eventItem.Day</p>
+                                    <p><strong>Venue:</strong> @eventItem.Venue</p>
+                                    <p><strong>Title:</strong> @eventItem.Title</p>
+                                    <div class="button-container">
+                                        <a class="btn" href="@urls.DetailPageUrl">View Details</a>
+                                    </div>
+                                </div>
+                            }
+                            else
+                            {
+                                <p>Event details not available.</p>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+
+
+
+
+
+
+        <footer>
+            <p>&copy; 2024 Ticket Wave. All rights reserved.</p>
+        </footer>
+
+    <script src="~/jss/site.js"></script>
+</body>
+    </html>

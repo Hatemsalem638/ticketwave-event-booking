@@ -1,0 +1,41 @@
+﻿@page
+@model soft20181_starter.Pages.Admin.AddEventsModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/Contactus.css">
+
+
+<h1>Add Events</h1>
+
+<div class="contactForm">
+    <form method="post">
+        <h2>Event details</h2>
+        <div class="inputBox">
+            <label for="EventName">Event Name</label>
+            <input type="text" asp-for="@Model.TheEventList.EventName" id="EventName">
+        </div>
+        <div class="inputBox">
+            <label for="Description">Event Description</label>
+            <input type="text" asp-for="@Model.TheEventList.Description" id="Description">
+        </div>
+        <div class="inputBox">
+            <label for="Day">Event Day</label>
+            <input type="text" asp-for="@Model.TheEventList.Day" id="Day">
+        </div>
+        <div class="inputBox">
+            <label for="Venue">Event Venue</label>
+            <input type="text" asp-for="@Model.TheEventList.Venue" id="Venue">
+        </div>
+        <div class="inputBox">
+            <label for="Title">Event Title</label>
+            <input type="text" asp-for="@Model.TheEventList.Title" id="Title">
+        </div>
+
+
+        <div class="inputBox">
+            <button type="submit">Update</button>
+        </div>
+    </form>
+
+</div>

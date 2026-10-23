@@ -1,0 +1,36 @@
+﻿@page
+@model soft20181_starter.Pages.CartModel
+@{
+}
+
+<h1>Cart</h1>
+
+@if (Model.CartItems.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Event Ticket</th>
+                <th>Date and Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
+                <tr>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.Email</td>
+                    <td>@item.EventTicket</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}

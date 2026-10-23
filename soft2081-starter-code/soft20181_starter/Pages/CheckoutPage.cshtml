@@ -1,0 +1,38 @@
+﻿@page
+@model soft20181_starter.Pages.CheckoutPageModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/Contactus.css">
+
+<h1>Checkout</h1>
+
+<div class="contactForm">
+    <form method="post">
+        <h2>Event details</h2>
+        <div class="inputBox">
+            <label for="FirstName">First Name</label>
+            <input type="text" asp-for="@Model.TheAttendaceList.FirstName" id="FirstName">
+        </div>
+        <div class="inputBox">
+            <label for="LastName">Last Name</label>
+            <input type="text" asp-for="@Model.TheAttendaceList.LastName" id="LastName">
+        </div>
+        <div class="inputBox">
+            <label for="Email">Email</label>
+            <input type="email" asp-for="@Model.TheAttendaceList.Email" id="Email">
+        </div>
+        <div class="inputBox">
+            <label for="EventTicket">Event Ticket</label>
+            <select asp-for="@Model.TheAttendaceList.EventTicket" id="EventTicket">
+                @foreach (var eventName in Model.EventNames)
+                {
+                    <option value="@eventName">@eventName</option>
+                }
+            </select>
+        </div>
+        <div class="inputBox">
+            <button type="submit">Checkout</button>
+        </div>
+    </form>
+</div>

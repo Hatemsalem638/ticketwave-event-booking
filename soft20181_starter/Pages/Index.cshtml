@@ -1,0 +1,81 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Events Booking System</title>
+    <link rel="stylesheet" href="~/css/Event Booking system.css">
+
+
+
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="~/css/ticketwave-high-resolution-logo-white-transparent.png" alt="Logo" width="100" height="50">
+        </div>
+        <div class="hamburger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <nav class="nav-bar">
+            <ul>
+                <li>
+                    <a href="Index" class="active">Home</a>
+                </li>
+                <li>
+                    <a href="Events">Events</a>
+                </li>
+                <li>
+                    <a href="About Us">About</a>
+                </li>
+                <li>
+                    <a href="Contactus">Contact Us</a>
+                </li>
+                <li>
+                    <a href="Login">Admin</a>
+                </li>
+            </ul>
+
+        </nav>
+    </header>
+
+    <script src="Java.js"></script>
+
+    <div class="container">
+        <video autoplay loop muted playsinline class="background-clip">
+            <source src="~/css/y2mate.com - Sunset Beach Motion Loop Background_1080p.mp4" type="video/mp4">
+        </video>
+        <div class="overlay"></div>
+        <div class="home-text">
+            <h1>Your Ticket to Unforgettable Experiences</h1>
+            <div class="buttons">
+                <a href="Events.html" class="button">Book Now</a>
+                <a href="About Us.html" class="button">About</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="boxes">
+        <div class="box">
+            <img src="~/css/weeknd.jpg" alt="Box 1">
+            <a href="The weeknd">Experience a musical voyage at The Weeknd's thrilling performance </a>
+        </div>
+        <div class="box">
+            <img src="~/css/Dave wp.jpg" alt="Box 2">
+            <a href="Dave concert"> Experience the genre-bending live performance of Dave </a>
+        </div>
+    </div>
+
+
+    <footer>
+        <p>&copy; 2024 Ticket Wave. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

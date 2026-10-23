@@ -1,0 +1,59 @@
+﻿@page
+@model soft20181_starter.Pages.About_UsModel
+@{
+    var name = "Hatem";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Ticket Wave - Event Booking Platform</title>
+    <link rel="stylesheet" href="~/css/About us.css">
+</head>
+<body>
+
+    <nav>
+        <div class="logo"><a href="Index"><img src="~/css/ticketwave-high-resolution-logo-white-transparent.png" alt="Logo" width="100" height="50"></a></div>
+        <div class="hamburger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <ul class="menu">
+            <li><a href="Index" class="active">Home</a></li>
+            <li><a href="Events">Events</a></li>
+            <li><a href="About Us">About</a></li>
+            <li><a href="Contactus">Contact us</a></li>
+        </ul>
+        <div class="Search">
+            <form>
+                <input type="text" placeholder="Search........">
+                <button type="submit">Go</button>
+            </form>
+        </div>
+    </nav>
+
+    <script src="~/js/site.js"></script>
+
+    <section>
+        @name
+        <h2>Our Platform</h2>
+        <p>Welcome to Ticket Wave, your go-to event booking platform! Discover and book a wide range of events, from thrilling concerts to insightful conferences. We're committed to making your event experiences enjoyable and hassle-free.</p>
+
+        <h2>Our Mission</h2>
+        <p>At Ticket Wave, our mission is to create a seamless connection between event organizers and enthusiastic attendees. We believe in the magic of live experiences and aim to enhance the way events are planned and enjoyed. Join us in making memories that last a lifetime!</p>
+
+
+        <h2>Our Achievements</h2>
+        <p>At Ticket Wave, we take pride in our notable achievements that reflect our commitment to excellence. From successfully hosting sold-out events to receiving positive feedback from satisfied customers, our journey has been marked by milestones that inspire us to continually enhance your event experiences. We owe our success to our dedicated team and the trust and support of our valued users.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ticket Wave. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

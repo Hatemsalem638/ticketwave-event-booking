@@ -1,0 +1,32 @@
+﻿@page
+@model soft20181_starter.Pages.Admin.ViewEventsModel
+@{
+}
+
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<h1>Events List</h1>
+
+<div class="container">
+    <div class="row">
+        @foreach (var eventItem in Model.EventListed)
+        {
+            <div class="col-md-6">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">@eventItem.EventName</h5>
+                        <p class="card-text"><strong>Description:</strong> @eventItem.Description</p>
+                        <p class="card-text"><strong>Day:</strong> @eventItem.Day</p>
+                        <p class="card-text"><strong>Venue:</strong> @eventItem.Venue</p>
+                        <p class="card-text"><strong>Title:</strong> @eventItem.Title</p>
+                        <div class="d-flex justify-content-end">
+                            <a class="btn btn-danger" asp-page="EditEvents" asp-route-id="@eventItem.Id">Edit</a>
+                            <a class="btn btn-danger" asp-page="EditEvents" asp-route-id="@eventItem.Id" asp-page-handler="Delete">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

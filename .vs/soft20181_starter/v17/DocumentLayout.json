@@ -1,0 +1,1270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\editusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\editusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\barcelona vs atletico madrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\barcelona vs atletico madrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\barcelona vs atletico madrid.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\barcelona vs atletico madrid.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\checkoutpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\checkoutpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\events.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\events.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\isle of wight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\isle of wight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\liverpool vs manchester united.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\liverpool vs manchester united.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\adminpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\adminpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\addevents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\addevents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\checkoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\checkoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\viewevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\viewevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\eventlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\eventlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\central cee concert.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\central cee concert.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\addevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\addevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\migrations\\20240328175632_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\migrations\\20240328175632_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\migrations\\20240328205335_updateddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\migrations\\20240328205335_updateddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\attendacelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\attendacelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\eventslisting.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\css\\eventslisting.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\events.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\css\\events.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\real madrid vs napoli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\real madrid vs napoli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\editevents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\editevents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\editevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\editevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\sevents.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\css\\sevents.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\event booking system.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\css\\event booking system.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\eventsbookingsystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\eventsbookingsystem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\dave concert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\dave concert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\signupdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\signupdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\contactus.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\contactus.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\cavaliers vs knicks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\cavaliers vs knicks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\admin\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\admin\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\the weeknd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\the weeknd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\real madrid vs napoli.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\real madrid vs napoli.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\psg vs ac milan.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\psg vs ac milan.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\psg vs ac milan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\psg vs ac milan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\liverpool vs manchester united.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\liverpool vs manchester united.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\lakers vs magic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\lakers vs magic.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\isle of wight.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\isle of wight.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\dave concert.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\dave concert.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\central cee concert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\central cee concert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\cavaliers vs knicks.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\cavaliers vs knicks.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\soft20181_starter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\soft20181_starter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\the weeknd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\the weeknd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\lakers vs magic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\lakers vs magic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\about us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\about us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|c:\\users\\hatem\\downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3480F3A6-C6A8-4621-B448-34EAB2A8E36C}|soft20181_starter\\soft20181_starter.csproj|solutionrelative:soft20181_starter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Program.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Program.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Program.cs",
+              "RelativeToolTip": "soft20181_starter\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:00:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Barcelona vs Atletico Madrid.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:51:33.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barcelona vs Atletico Madrid.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Barcelona vs Atletico Madrid.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T16:05:57.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Index.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:22:45.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contactus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contactus.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Contactus.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contactus.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Contactus.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T00:12:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\EditUsers.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\EditUsers.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\EditUsers.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\EditUsers.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T14:22:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\CheckoutPage.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\CheckoutPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\CheckoutPage.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\CheckoutPage.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:48:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T00:40:12.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T22:22:13.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\AccessDenied.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:43:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Isle of Wight.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Isle of Wight.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Isle of Wight.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Isle of Wight.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Isle of Wight.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:17:15.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Events.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Events.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Events.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Events.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:16:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Events.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Events.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Events.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Events.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Events.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:53:53.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Liverpool vs Manchester United.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwEcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:17:52.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Login.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T14:20:10.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:21:25.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AdminPage.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\AdminPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AdminPage.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\AdminPage.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:42:45.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AdminPage.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\AdminPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T22:42:13.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddEvents.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AddEvents.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\AddEvents.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AddEvents.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\AddEvents.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:47:36.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\Admin.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\Admin.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T00:40:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignUp.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\SignUp.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\SignUp.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\SignUp.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\SignUp.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:40:40.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\SignUp.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\SignUp.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwGwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:48:19.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:25:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Central Cee Concert.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Central Cee Concert.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Central Cee Concert.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Central Cee Concert.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Central Cee Concert.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:22:59.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:19:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventList.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\EventList.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\EventList.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\EventList.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\EventList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:56:28.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T22:58:34.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckoutPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\CheckoutPage.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\CheckoutPage.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\CheckoutPage.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\CheckoutPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T23:47:09.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ViewEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\ViewEvents.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\ViewEvents.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\ViewEvents.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\ViewEvents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T23:54:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AddEvents.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\AddEvents.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\AddEvents.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\AddEvents.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T23:46:45.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AttendaceList.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\AttendaceList.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\AttendaceList.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\AttendaceList.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\AttendaceList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:57:12.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240328205335_updateddb.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Migrations\\20240328205335_updateddb.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Migrations\\20240328205335_updateddb.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Migrations\\20240328205335_updateddb.cs",
+              "RelativeToolTip": "soft20181_starter\\Migrations\\20240328205335_updateddb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:53:36.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240328175632_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Migrations\\20240328175632_FirstMigration.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Migrations\\20240328175632_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Migrations\\20240328175632_FirstMigration.cs",
+              "RelativeToolTip": "soft20181_starter\\Migrations\\20240328175632_FirstMigration.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:56:32.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\AdminIndex.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\AdminIndex.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\AdminIndex.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\AdminIndex.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T17:09:10.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Real Madrid vs Napoli.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:18:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T14:03:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventsListing.css",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\EventsListing.css",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\css\\EventsListing.css",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\EventsListing.css",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\css\\EventsListing.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-29T03:33:21.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\Contact.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:15:09.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "sEvents.css",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\sEvents.css",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\css\\sEvents.css",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\sEvents.css",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\css\\sEvents.css",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAUwHcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-29T03:30:23.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Dave concert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Dave concert.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Dave concert.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Dave concert.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Dave concert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:16:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Events.css",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\Events.css",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\css\\Events.css",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\Events.css",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\css\\Events.css",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-25T16:12:10.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EditEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\EditEvents.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\EditEvents.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\EditEvents.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\EditEvents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T21:21:39.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditEvents.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\EditEvents.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\EditEvents.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\EditEvents.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\EditEvents.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:21:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\Role.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:18:00.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Event Booking system.css",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\Event Booking system.css",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\css\\Event Booking system.css",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\Event Booking system.css",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\css\\Event Booking system.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T15:45:45.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EventsBookingSystem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\EventsBookingSystem.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\EventsBookingSystem.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\EventsBookingSystem.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\EventsBookingSystem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T13:58:43.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:22:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SignUpDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\SignUpDetails.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\SignUpDetails.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\SignUpDetails.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\SignUpDetails.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:44:25.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\UserRole.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:15:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T14:21:12.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:22:22.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Cavaliers vs Knicks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T15:58:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Models\\Messages.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Models\\Messages.cs",
+              "RelativeToolTip": "soft20181_starter\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:12:58.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Contactus.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contactus.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Contactus.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contactus.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Contactus.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA6wC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:12:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UsersList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\UsersList.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Admin\\UsersList.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Admin\\UsersList.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Admin\\UsersList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:57:58.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Real Madrid vs Napoli.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Real Madrid vs Napoli.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:18:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PSG vs AC Milan.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\PSG vs AC Milan.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\PSG vs AC Milan.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\PSG vs AC Milan.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\PSG vs AC Milan.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:34:51.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PSG vs AC Milan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\PSG vs AC Milan.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\PSG vs AC Milan.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\PSG vs AC Milan.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\PSG vs AC Milan.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:18:13.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Liverpool vs Manchester United.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Liverpool vs Manchester United.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:34:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "The weeknd.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\The weeknd.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\The weeknd.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\The weeknd.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\The weeknd.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:35:04.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Lakers vs magic.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Lakers vs magic.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Lakers vs magic.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Lakers vs magic.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Lakers vs magic.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:34:38.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Isle of Wight.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Isle of Wight.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Isle of Wight.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Isle of Wight.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Isle of Wight.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:34:31.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Dave concert.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Dave concert.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Dave concert.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Dave concert.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Dave concert.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:34:21.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Central Cee Concert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Central Cee Concert.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Central Cee Concert.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Central Cee Concert.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Central Cee Concert.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:16:26.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Cavaliers vs Knicks.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Cavaliers vs Knicks.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:07:00.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "soft20181_starter.csproj",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\soft20181_starter.csproj",
+              "RelativeDocumentMoniker": "soft20181_starter\\soft20181_starter.csproj",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\soft20181_starter.csproj",
+              "RelativeToolTip": "soft20181_starter\\soft20181_starter.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T01:21:19.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:25:24.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "The weeknd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\The weeknd.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\The weeknd.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\The weeknd.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\The weeknd.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAF0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:18:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Lakers vs magic.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Lakers vs magic.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Lakers vs magic.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Lakers vs magic.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Lakers vs magic.cshtml",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAF0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:17:36.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "About Us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\About Us.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\About Us.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\About Us.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\About Us.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T14:19:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T19:25:19.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Contactus.css",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\Contactus.css",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\css\\Contactus.css",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\Contactus.css",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\css\\Contactus.css",
+              "ViewState": "AQIAABMBAAAAAAAAAAAqwDIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T15:22:54.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\appsettings.json",
+              "RelativeDocumentMoniker": "soft20181_starter\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\appsettings.json",
+              "RelativeToolTip": "soft20181_starter\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:51:56.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Class.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Class.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Class.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:31:37.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "soft20181_starter\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "soft20181_starter\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T14:03:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "soft20181_starter\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "soft20181_starter\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:26:59.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "soft20181_starter\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hatem\\Downloads\\soft2081-starter-code-main\\soft2081-starter-code-main\\soft20181_starter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "soft20181_starter\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T01:21:54.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
